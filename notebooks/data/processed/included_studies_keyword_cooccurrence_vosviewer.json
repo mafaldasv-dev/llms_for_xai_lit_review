@@ -1,0 +1,508 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "Explainable AI",
+        "weights": {
+          "Occurrences": 33,
+          "Total link strength": 55
+        }
+      },
+      {
+        "id": 2,
+        "label": "Large Language Models",
+        "weights": {
+          "Occurrences": 31,
+          "Total link strength": 57
+        }
+      },
+      {
+        "id": 3,
+        "label": "Counterfactual Explanations",
+        "weights": {
+          "Occurrences": 7,
+          "Total link strength": 17
+        }
+      },
+      {
+        "id": 4,
+        "label": "Conversational XAI",
+        "weights": {
+          "Occurrences": 6,
+          "Total link strength": 13
+        }
+      },
+      {
+        "id": 5,
+        "label": "ML/DL Models",
+        "weights": {
+          "Occurrences": 5,
+          "Total link strength": 15
+        }
+      },
+      {
+        "id": 6,
+        "label": "Retrieval-Augmented Generation (RAG)",
+        "weights": {
+          "Occurrences": 5,
+          "Total link strength": 13
+        }
+      },
+      {
+        "id": 7,
+        "label": "Clinical Decision Support",
+        "weights": {
+          "Occurrences": 3,
+          "Total link strength": 9
+        }
+      },
+      {
+        "id": 8,
+        "label": "Generative AI (GenAI)",
+        "weights": {
+          "Occurrences": 3,
+          "Total link strength": 9
+        }
+      },
+      {
+        "id": 9,
+        "label": "Knowledge Graphs",
+        "weights": {
+          "Occurrences": 3,
+          "Total link strength": 5
+        }
+      },
+      {
+        "id": 10,
+        "label": "Prompt Engineering",
+        "weights": {
+          "Occurrences": 3,
+          "Total link strength": 6
+        }
+      },
+      {
+        "id": 11,
+        "label": "SHAP",
+        "weights": {
+          "Occurrences": 3,
+          "Total link strength": 8
+        }
+      },
+      {
+        "id": 12,
+        "label": "Social Media",
+        "weights": {
+          "Occurrences": 3,
+          "Total link strength": 5
+        }
+      },
+      {
+        "id": 13,
+        "label": "Artificial Intelligence",
+        "weights": {
+          "Occurrences": 2,
+          "Total link strength": 6
+        }
+      },
+      {
+        "id": 14,
+        "label": "Fine-Tuning",
+        "weights": {
+          "Occurrences": 2,
+          "Total link strength": 5
+        }
+      },
+      {
+        "id": 15,
+        "label": "Graph Neural Networks",
+        "weights": {
+          "Occurrences": 2,
+          "Total link strength": 5
+        }
+      },
+      {
+        "id": 16,
+        "label": "Social Media",
+        "weights": {
+          "Occurrences": 2,
+          "Total link strength": 2
+        }
+      },
+      {
+        "id": 17,
+        "label": "Human-Ai Interaction",
+        "weights": {
+          "Occurrences": 2,
+          "Total link strength": 5
+        }
+      },
+      {
+        "id": 18,
+        "label": "Model Prediction",
+        "weights": {
+          "Occurrences": 2,
+          "Total link strength": 4
+        }
+      },
+      {
+        "id": 19,
+        "label": "Natural Language Explanations",
+        "weights": {
+          "Occurrences": 2,
+          "Total link strength": 5
+        }
+      },
+      {
+        "id": 20,
+        "label": "Report Generation",
+        "weights": {
+          "Occurrences": 2,
+          "Total link strength": 6
+        }
+      }
+    ],
+    "links": [
+      {
+        "source_id": 1,
+        "target_id": 17,
+        "strength": 2
+      },
+      {
+        "source_id": 3,
+        "target_id": 15,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 2,
+        "strength": 5
+      },
+      {
+        "source_id": 15,
+        "target_id": 2,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 1,
+        "strength": 5
+      },
+      {
+        "source_id": 4,
+        "target_id": 8,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 8,
+        "strength": 2
+      },
+      {
+        "source_id": 1,
+        "target_id": 2,
+        "strength": 19
+      },
+      {
+        "source_id": 13,
+        "target_id": 1,
+        "strength": 2
+      },
+      {
+        "source_id": 13,
+        "target_id": 2,
+        "strength": 2
+      },
+      {
+        "source_id": 1,
+        "target_id": 12,
+        "strength": 2
+      },
+      {
+        "source_id": 3,
+        "target_id": 1,
+        "strength": 5
+      },
+      {
+        "source_id": 4,
+        "target_id": 3,
+        "strength": 2
+      },
+      {
+        "source_id": 1,
+        "target_id": 15,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 15,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 4,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 1,
+        "strength": 3
+      },
+      {
+        "source_id": 7,
+        "target_id": 2,
+        "strength": 3
+      },
+      {
+        "source_id": 7,
+        "target_id": 6,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 2,
+        "strength": 2
+      },
+      {
+        "source_id": 4,
+        "target_id": 6,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 6,
+        "strength": 3
+      },
+      {
+        "source_id": 2,
+        "target_id": 6,
+        "strength": 4
+      },
+      {
+        "source_id": 14,
+        "target_id": 2,
+        "strength": 2
+      },
+      {
+        "source_id": 9,
+        "target_id": 18,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 2,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 12,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 12,
+        "strength": 2
+      },
+      {
+        "source_id": 7,
+        "target_id": 11,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 11,
+        "strength": 3
+      },
+      {
+        "source_id": 2,
+        "target_id": 11,
+        "strength": 3
+      },
+      {
+        "source_id": 8,
+        "target_id": 2,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 5,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 20,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 6,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 5,
+        "strength": 4
+      },
+      {
+        "source_id": 2,
+        "target_id": 20,
+        "strength": 2
+      },
+      {
+        "source_id": 5,
+        "target_id": 20,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 6,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 6,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 11,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 10,
+        "strength": 2
+      },
+      {
+        "source_id": 3,
+        "target_id": 14,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 5,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 14,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 5,
+        "strength": 3
+      },
+      {
+        "source_id": 14,
+        "target_id": 5,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 10,
+        "strength": 2
+      },
+      {
+        "source_id": 4,
+        "target_id": 10,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 10,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 20,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 5,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 2,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 5,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 2,
+        "strength": 2
+      },
+      {
+        "source_id": 9,
+        "target_id": 6,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 18,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 18,
+        "strength": 1
+      }
+    ]
+  },
+  "config": {
+    "parameters": {
+      "largest_component": true,
+      "min_link_strength": 1,
+      "resolution": 1.1,
+      "min_cluster_size": 2
+    },
+    "terminology": {
+      "item": "keyword",
+      "items": "keywords",
+      "link": "co-occurrence link",
+      "links": "co-occurrence links",
+      "link_strength": "co-occurrences",
+      "total_link_strength": "total link strength"
+    }
+  },
+  "info": {
+    "title": "Thematic Keyword Co-occurrence Network: LLM in XAI",
+    "description": "Methodological and application keywords occurring in at least 2 studies. Core search terms and broad index terms are filtered."
+  }
+}
